@@ -7,12 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<p> <strong>JobFair</strong> is a full full-pledge Job Board application which helps the job seeker to find their job with advance search and employers has the ability to post their job in the regular or premium way. </p>
+<p> <strong>JobPe</strong> is a full full-pledge Job Board application which helps the job seeker to find their job with advance search and employers has the ability to post their job in the regular or premium way. </p>
 
 </section>
 <section id="installation">
 	<div class="page-header"><h3>Server Requirements</h3><hr class="notop"></div>
-			<p>JobFair has a few system requirements. <a href="https://laravel.com/docs/5.4#installation" target="_blank">Read More</a> </p>
+			<p>JobPe has a few system requirements. <a href="https://laravel.com/docs/5.4#installation" target="_blank">Read More</a> </p>
 			<ul>
 				<li> PHP >= 7.1.3 </li>
 				<li> OpenSSL PHP Extension </li>
